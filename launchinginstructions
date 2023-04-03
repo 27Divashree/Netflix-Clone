@@ -1,0 +1,4 @@
+Commands to type in terminal to open localhost:3000
+
+cd netflix-clone
+npm start
